@@ -3,7 +3,9 @@ Project inspired by Tinder functionality but focused on Developers, Startups, re
 
 ## How to run the api:
 
-`yarn dev`
+First run `yarn` in cmd cloning the repo inside the project folder.
+
+Then run `yarn dev`. The server is listening in localhost:3333 by default.
 
 ## Tecs
 
